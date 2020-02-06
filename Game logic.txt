@@ -1,0 +1,9 @@
+In lower-half
+
+1. Decide the game area for obstacal.
+2. on that area obstacal will only move towards player.
+
+In Upper-Half
+
+1.all obstracals will be in fixed motion.
+and at last the kick will be given to it so the ball will be accelerate towards the gole.
